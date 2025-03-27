@@ -2,7 +2,7 @@
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
-    //Essa regra 
+    //Essa regra é chata d+
     "noImplicitAny": false
   }
 }
