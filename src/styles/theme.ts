@@ -7,6 +7,8 @@ export default {
       error: '#FF647C',
       success: '#00C48C',
       white: '#FFFFFF',
+      warning: '#FFFFFF',
+      border: '#000000'
     },
     typography: {
       title: {
